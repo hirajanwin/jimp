@@ -1,0 +1,15 @@
+{
+  "name": "jimp",
+  "private": true,
+  "version": "0.1.0",
+  "description": "An API for image processing",
+  "author": "oliver-moran",
+  "license": "MIT",
+  "repository": "oliver-moran/jimp",
+  "engines": {
+    "node": ">=8"
+  },
+  "devDependencies": {
+    "@types/node": "^12.6.9"
+  }
+}

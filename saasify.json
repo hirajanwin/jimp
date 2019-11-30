@@ -1,0 +1,8 @@
+{
+  "name": "jimp",
+  "services": [
+    {
+      "src": "index.ts"
+    }
+  ]
+}
