@@ -2,7 +2,16 @@
   "name": "jimp",
   "services": [
     {
-      "src": "index.ts"
+      "src": "src/process.ts",
+      "examples": [
+        {
+          "name": "Resize unsplash image",
+          "input": {
+            "url": "https://images.unsplash.com/photo-1574977102169-5c36ce5d4a29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+            "ops": [["resize", 256, 256], ["quality", 60], "grayscale"]
+          }
+        }
+      ]
     }
   ]
 }

@@ -11,5 +11,9 @@
   },
   "devDependencies": {
     "@types/node": "^12.6.9"
+  },
+  "dependencies": {
+    "fts-core": "^1.1.0",
+    "jimp": "^0.9.3"
   }
 }
