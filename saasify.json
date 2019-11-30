@@ -13,5 +13,20 @@
         }
       ]
     }
-  ]
+  ],
+  "alias": "jimp",
+  "saas": {
+    "heading": "**A kick-ass API for image processing**",
+    "subheading": "Manipulate and optimize images using our comprehensive image API. Resize, mirror, grayscale & more.",
+    "logo": "./media/logo.svg",
+    "favicon": "./media/favicon.ico",
+    "theme": {
+      "name": "waves",
+      "backgroundImage": "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1955&q=80",
+      "buttonStyle": "rounded",
+      "wave": false,
+      "codeBlockDark": true,
+      "color": "#0969A2"
+    }
+  }
 }
