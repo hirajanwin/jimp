@@ -12,6 +12,15 @@
   "devDependencies": {
     "@types/node": "^12.6.9"
   },
+  "prettier": {
+    "singleQuote": true,
+    "jsxSingleQuote": true,
+    "semi": false,
+    "tabWidth": 2,
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false,
+    "arrowParens": "always"
+  },
   "dependencies": {
     "fts-core": "^1.1.0",
     "jimp": "^0.9.3"
